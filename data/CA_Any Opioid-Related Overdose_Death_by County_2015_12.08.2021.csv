@@ -1,0 +1,65 @@
+California Deaths by County -Total Population - 2015 ,,,,
+Any Opioid-Related Overdose : Age-Adjusted Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,3.82,2.97,4.89,68
+Alpine,0,NaN,879.4,0
+Amador,3.75,2.04,23.52,2
+Butte,7.48,4.36,12.44,18
+Calaveras,17.97,7.55,39.84,9
+California,4.79,4.58,5.01,1992
+Colusa,0,NaN,24.59,0
+Contra Costa,4.19,3.1,5.57,49
+Del Norte,10.21,7.44,33.46,3
+El Dorado,4.04,2.63,8.7,8
+Fresno,6.8,5.2,8.79,62
+Glenn,2.59,2.82,22.84,1
+Humboldt,18.05,11.57,27.35,26
+Imperial,12.66,7.77,19.75,20
+Inyo,0,NaN,32.43,0
+Kern,8.6,6.74,10.9,75
+Kings,3.42,1.82,8.69,5
+Lake,26.92,22.76,44.04,19
+Lassen,10.51,4.78,33,4
+Los Angeles,2.65,2.35,2.98,283
+Madera,5.71,4.12,10.88,10
+Marin,1.5,1.08,4.5,3
+Mariposa,4.56,4.97,43.5,1
+Mendocino,15.05,7.67,27.15,12
+Merced,8.35,5.21,13.02,20
+Modoc,7.16,7.8,75.14,1
+Mono,0,NaN,38.72,0
+Monterey,3.23,1.77,5.58,14
+Napa,5.87,3.83,11.7,8
+Nevada,4.06,3.25,11.91,4
+Orange,7.39,6.49,8.39,251
+Placer,3.94,2.21,6.7,15
+Plumas,31.3,15.78,84.28,4
+Riverside,5.55,4.66,6.58,135
+Sacramento,2.44,1.74,3.37,40
+San Benito,5.23,3.94,17.02,3
+San Bernardino,1.74,1.22,2.44,38
+San Diego,6.94,6.08,7.89,248
+San Francisco,9.56,7.7,11.95,95
+San Joaquin,6.12,4.47,8.23,46
+San Luis Obispo,9.85,6.43,14.77,28
+San Mateo,2.97,1.9,4.5,25
+Santa Barbara,7.7,5.31,10.96,34
+Santa Clara,3.17,2.46,4.05,66
+Santa Cruz,10.68,7.12,15.63,29
+Shasta,8.97,4.87,15.54,15
+Sierra,0,NaN,318.78,0
+Siskiyou,17.31,7.28,38.56,8
+Solano,4.68,2.83,7.42,20
+Sonoma,6.79,4.71,9.6,37
+Stanislaus,5.37,3.58,7.82,29
+Sutter,0,NaN,5.32,0
+Tehama,2.87,2.19,12.23,3
+Trinity,6.95,11.85,54.61,2
+Tulare,2.5,1.27,4.62,11
+Tuolumne,27.68,15.08,48.65,15
+Unknown,NaN,NaN,NaN,0
+Ventura,5.64,4.21,7.47,53
+Yolo,6.47,3.48,11.41,13
+Yuba,6.14,2.81,16.64,4
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,

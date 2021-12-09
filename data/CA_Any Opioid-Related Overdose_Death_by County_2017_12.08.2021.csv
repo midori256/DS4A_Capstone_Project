@@ -1,0 +1,65 @@
+California Deaths by County -Total Population - 2017 ,,,,
+Any Opioid-Related Overdose : Age-Adjusted Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,2.03,1.43,2.84,37
+Alpine,0,NaN,750.08,0
+Amador,2.71,1.48,20.21,2
+Butte,7.57,4.36,12.71,17
+Calaveras,0.86,0.94,16.06,1
+California,5.22,5,5.45,2194
+Colusa,0,NaN,24.67,0
+Contra Costa,4.35,3.25,5.74,52
+Del Norte,12.56,5.64,37.37,4
+El Dorado,2.38,1.29,6.3,5
+Fresno,4.58,3.35,6.17,47
+Glenn,0,NaN,19.59,0
+Humboldt,21.03,13.8,31.04,28
+Imperial,4.57,2.02,9.38,8
+Inyo,3.19,3.48,36.51,1
+Kern,8.45,6.65,10.66,75
+Kings,4.52,2.83,10.08,6
+Lake,17.02,9.64,31.42,13
+Lassen,13.91,13.13,37.21,5
+Los Angeles,4.05,3.68,4.45,447
+Madera,3.75,1.45,8.69,6
+Marin,6.59,3.7,11.21,15
+Mariposa,5.51,6.01,46.39,1
+Mendocino,19.34,11.76,31.41,17
+Merced,4.67,2.51,8.27,13
+Modoc,23.58,16.56,98.62,3
+Mono,0,NaN,38.14,0
+Monterey,1.65,0.67,3.54,7
+Napa,3.15,2.71,8.12,4
+Nevada,5.5,3,13.73,6
+Orange,7.5,6.59,8.51,255
+Placer,4.79,2.85,7.74,18
+Plumas,2,2.18,37.35,1
+Riverside,5.67,4.76,6.73,140
+Sacramento,3.75,2.86,4.87,61
+San Benito,9.47,3.66,21.86,6
+San Bernardino,2.65,2,3.47,57
+San Diego,7.81,6.91,8.8,284
+San Francisco,9.62,7.77,11.98,99
+San Joaquin,9.18,7.12,11.71,69
+San Luis Obispo,7.77,4.76,12.31,21
+San Mateo,4.75,3.39,6.55,40
+Santa Barbara,7.48,5.04,10.85,32
+Santa Clara,3.19,2.47,4.08,67
+Santa Cruz,6.59,3.94,10.7,18
+Shasta,14.06,9.07,21.43,24
+Sierra,0,NaN,240.26,0
+Siskiyou,9.97,7.54,29.62,4
+Solano,2.46,1.24,4.6,10
+Sonoma,5.99,4.04,8.69,30
+Stanislaus,3.39,2.05,5.41,18
+Sutter,2.05,1.12,8.46,2
+Tehama,0,NaN,8.82,0
+Trinity,4.34,4.72,52.46,1
+Tulare,2.59,1.98,4.63,11
+Tuolumne,9.47,4.37,25.21,5
+Unknown,NaN,NaN,NaN,0
+Ventura,9.8,7.8,12.21,85
+Yolo,3.19,1.89,7.06,7
+Yuba,13.15,9.11,25.41,9
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,

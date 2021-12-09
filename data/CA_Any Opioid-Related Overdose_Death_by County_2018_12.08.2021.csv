@@ -1,0 +1,65 @@
+California Deaths by County -Total Population - 2018 ,,,,
+Any Opioid-Related Overdose : Age-Adjusted Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,3.1,2.33,4.07,56
+Alpine,0,NaN,827.56,0
+Amador,2.9,3.16,21.02,1
+Butte,6.55,3.7,11.2,17
+Calaveras,9.71,7.46,29.4,3
+California,5.82,5.59,6.06,2428
+Colusa,0,NaN,24.71,0
+Contra Costa,6.82,5.4,8.51,82
+Del Norte,0,NaN,18.48,0
+El Dorado,4.14,1.7,8.95,7
+Fresno,3.52,2.46,4.94,35
+Glenn,4.71,5.13,27.3,1
+Humboldt,11.17,6.5,18.76,16
+Imperial,10.07,8.34,16.29,16
+Inyo,17.77,6.46,59.3,3
+Kern,10.46,8.41,12.92,92
+Kings,2.76,1.31,7.61,4
+Lake,22.7,13.57,38.19,21
+Lassen,11.9,5.45,35.36,4
+Los Angeles,4.57,4.17,4.99,497
+Madera,3.98,1.5,9.05,6
+Marin,3.46,2.39,6.97,8
+Mariposa,0,NaN,38.86,0
+Mendocino,13.7,10.61,24.14,14
+Merced,7.3,4.48,11.51,20
+Modoc,0,NaN,69.25,0
+Mono,0,NaN,38.11,0
+Monterey,1.73,1.19,3.5,8
+Napa,3.97,1.58,9.15,7
+Nevada,6.28,3.87,14.6,7
+Orange,7.46,6.55,8.47,252
+Placer,1.94,0.83,4.02,8
+Plumas,18.11,9.87,64.44,2
+Riverside,5.74,4.83,6.79,144
+Sacramento,4.65,3.61,5.91,70
+San Benito,3.22,1.75,12.68,2
+San Bernardino,4.77,3.89,5.82,106
+San Diego,7.39,6.51,8.36,268
+San Francisco,15.01,12.64,17.88,147
+San Joaquin,3.47,2.27,5.16,26
+San Luis Obispo,4.29,2.19,7.91,13
+San Mateo,4.83,3.47,6.65,39
+Santa Barbara,7.09,4.84,10.21,33
+Santa Clara,2.83,2.15,3.67,60
+Santa Cruz,8.49,5.36,13.09,23
+Shasta,5.43,2.73,10.68,10
+Sierra,0,NaN,231.49,0
+Siskiyou,3.62,1.97,19.7,2
+Solano,4.02,2.39,6.51,19
+Sonoma,9.23,6.64,12.58,43
+Stanislaus,5.96,4.19,8.37,35
+Sutter,8.72,3.8,17.94,8
+Tehama,3.52,1.92,14.13,2
+Trinity,7.47,12.66,57.63,2
+Tulare,1.73,0.71,3.64,7
+Tuolumne,2.52,2.74,14.66,1
+Unknown,NaN,NaN,NaN,77
+Ventura,11.14,8.97,13.72,95
+Yolo,2.21,1.05,5.77,5
+Yuba,5.36,2.54,14.71,4
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,

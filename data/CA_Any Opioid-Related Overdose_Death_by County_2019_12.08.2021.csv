@@ -1,0 +1,65 @@
+California Deaths by County -Total Population - 2019 ,,,,
+Any Opioid-Related Overdose : Age-Adjusted Rate per 100k Residents,,,,
+County,Rates,95% LCL,95% UCL,Counts
+Alameda,5.75,4.69,7,103
+Alpine,0,NaN,1408.23,0
+Amador,7.81,3.89,26.28,5
+Butte,5.83,2.94,10.66,12
+Calaveras,7.79,7.15,25.55,4
+California,7.9,7.63,8.19,3244
+Colusa,15.66,11.94,47.96,3
+Contra Costa,7.86,6.31,9.7,91
+Del Norte,4.67,5.09,25.96,1
+El Dorado,5.8,2.67,11.27,10
+Fresno,4.86,3.58,6.51,48
+Glenn,3.31,3.6,24.38,1
+Humboldt,19.05,12.16,28.77,24
+Imperial,7.02,3.68,12.67,12
+Inyo,14.47,24.96,53.55,2
+Kern,12.79,10.54,15.43,117
+Kings,1.06,0.58,5.03,2
+Lake,32.46,19.98,51.42,23
+Lassen,23.47,9.82,51.53,7
+Los Angeles,6.7,6.21,7.22,707
+Madera,8.33,4.45,14.67,13
+Marin,9.27,5.66,14.6,22
+Mariposa,23.4,11.42,70.59,4
+Mendocino,21.12,12.29,34.56,18
+Merced,7.74,4.77,12.11,20
+Modoc,0,NaN,73.29,0
+Mono,0,NaN,107.94,0
+Monterey,4.46,2.75,6.98,20
+Napa,2.29,1.64,7.05,3
+Nevada,10.45,7.2,20.34,10
+Orange,8.13,7.18,9.19,272
+Placer,7.39,4.94,10.74,30
+Plumas,11.77,18.29,52.82,2
+Riverside,9.77,8.57,11.11,245
+Sacramento,7.39,6.11,8.88,119
+San Benito,7.98,4.27,19.37,5
+San Bernardino,6.1,5.09,7.27,133
+San Diego,8.92,7.94,10,314
+San Francisco,26.96,23.85,30.54,279
+San Joaquin,5.3,3.76,7.32,39
+San Luis Obispo,8.12,5.18,12.62,21
+San Mateo,7.87,6.05,10.12,65
+Santa Barbara,5.54,3.58,8.37,26
+Santa Clara,4.12,3.29,5.1,88
+Santa Cruz,10.47,6.91,15.44,29
+Shasta,11.11,6.49,18.12,18
+Sierra,0,NaN,244.23,0
+Siskiyou,5.98,3.25,23.82,2
+Solano,7.32,5.02,10.43,34
+Sonoma,13.09,10.02,16.88,65
+Stanislaus,8.57,6.26,11.54,46
+Sutter,2.5,0.91,8.79,3
+Tehama,1.02,1.11,10.25,1
+Trinity,19.65,10.7,82.27,2
+Tulare,2.52,1.35,4.5,12
+Tuolumne,1.6,0.87,12.35,2
+Unknown,NaN,NaN,NaN,4
+Ventura,10.05,8.03,12.48,89
+Yolo,3.91,1.82,7.9,9
+Yuba,10.82,7.52,21.64,8
+Source: CDPH Center for Health Statistics and Informatics Vital Statistics - Multiple Cause of Death or California Comprehensive Death Files,,,,
+Prepared by: California Department of Public Health - Substance and Addiction Prevention Branch.,,,,
